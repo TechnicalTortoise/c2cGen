@@ -7,7 +7,7 @@ Generates corner to corner (C2C) crochet patterns from an image.
 2. Set the imagePath and completedPatternPath appropriately
 3. Run through the notebook until the "Assign names to the colours" section.
 4. Run the first cell in this section.
-5. In the next cell, enter names for the colours in the order they appear in the colourNames list, as shown below (yellow=Y, white=W, black=B). Note because of the randomness in the K-Means-Clustering process, these colours will not always appear in the same order.
+5. In the next cell, enter names for the colours in the order they appear in the colourNames list, as shown below (yellow=Y, white=W, black=B).
 ![Setting colourNames](/colourName.png)
 6. Run through the remaining cells in the notebook.
 7. You're done! The full pattern should be located in the path you specified at the beginning.
