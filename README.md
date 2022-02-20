@@ -1,6 +1,7 @@
 # c2cGen
-Generates corner to corner (C2C) crochet patterns from an image. This a great technique for making blankets and such.
+Generates corner to corner (C2C) crochet patterns from an image. This a great technique for making blankets and such, for example:
 ![Setting colourNames](/hedgehog.jpg)
+![Setting colourNames](/keywork.jpg)
 
 # Usage
 
